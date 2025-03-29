@@ -426,12 +426,6 @@
             <mxPoint x="235" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7ZqG_2Yqb0ALPehg4KI-39" value="SequenceGroup" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#999999;fontFamily=Helvetica;fontColor=default;fillColor=none;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
-          <mxGeometry x="1160" y="890" width="276" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="D7ZqG_2Yqb0ALPehg4KI-40" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #7a3e9d;&quot;&gt;request_id&lt;/span&gt;&lt;span style=&quot;color: #777777;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #7a3e9d;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #777777;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(122, 62, 157);&quot;&gt;seqs&lt;/span&gt;&lt;span style=&quot;color: rgb(119, 119, 119);&quot;&gt;:&lt;/span&gt; List&lt;span style=&quot;color: rgb(119, 119, 119);&quot;&gt;[&lt;/span&gt;Sequence&lt;span style=&quot;color: rgb(119, 119, 119);&quot;&gt;],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #7a3e9d;&quot;&gt;sampling_params&lt;/span&gt;&lt;span style=&quot;color: #777777;&quot;&gt;:&amp;nbsp;&lt;/span&gt;SamplingParams&lt;span style=&quot;color: #777777;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #7a3e9d;&quot;&gt;arrival_time&lt;/span&gt;&lt;span style=&quot;color: #777777;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #7a3e9d;&quot;&gt;float&lt;/span&gt;&lt;span style=&quot;color: #777777;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-39">
-          <mxGeometry y="30" width="276" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="D7ZqG_2Yqb0ALPehg4KI-47" style="edgeStyle=none;html=1;fontFamily=Helvetica;endArrow=classicThin;endFill=1;" edge="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="1044.0900000000001" as="sourcePoint" />
@@ -592,7 +586,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCft4qBLrl43irTjIrgQ-77" value="&lt;div style=&quot;background-color: rgb(245, 245, 245); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;PingFang SC&quot; color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;addTransTask&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
-          <mxGeometry x="384.75" y="820" width="95.25" height="33" as="geometry" />
+          <mxGeometry x="384.75" y="818" width="95.25" height="33" as="geometry" />
         </mxCell>
         <mxCell id="MCft4qBLrl43irTjIrgQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="D7ZqG_2Yqb0ALPehg4KI-1" source="MCft4qBLrl43irTjIrgQ-76" target="MCft4qBLrl43irTjIrgQ-77">
           <mxGeometry relative="1" as="geometry" />
