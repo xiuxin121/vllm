@@ -610,10 +610,10 @@
           <mxGeometry x="-200" y="703.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="94KUMIOqdZqHH7keh2ZT-6" value="DRAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
-          <mxGeometry x="449" y="519.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="449" y="518.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="94KUMIOqdZqHH7keh2ZT-7" value="VRAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
-          <mxGeometry x="421.32" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="421.32" y="575" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
