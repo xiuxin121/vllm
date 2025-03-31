@@ -615,6 +615,12 @@
         <mxCell id="94KUMIOqdZqHH7keh2ZT-7" value="VRAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
           <mxGeometry x="421.32" y="575" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="94KUMIOqdZqHH7keh2ZT-8" value="push" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
+          <mxGeometry x="637.5" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="94KUMIOqdZqHH7keh2ZT-9" value="pop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7ZqG_2Yqb0ALPehg4KI-1">
+          <mxGeometry x="485" y="948" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
